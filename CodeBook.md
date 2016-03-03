@@ -59,7 +59,7 @@ Aggregate the measurements to show average of each variable for each activity an
 
 ## Output
 
-UCIdataset and UCIsummary data sets in CSV format
+UCIdataset and UCIsummary data sets in text format with comma separators.
 
 #### Fields
 -     subject:  Subject 1 - 30

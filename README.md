@@ -25,7 +25,7 @@ The training and the test sets to create one data set with only the measurements
 
 A second independent tidy data set with the average of each variable for each activity and each subject is also created.
 
-Two data files in CSV format are downloaded to directory _./data/_. 
+Two data files are downloaded to directory _./data/_. 
 
-- [UCI dataset](https://github.com/NR13/GettingandCleaningData/blob/master/UCIdataset.csv)
-- [UCI summary](https://github.com/NR13/GettingandCleaningData/blob/master/UCIsummary.csv)
+- [UCI dataset](https://github.com/NR13/GettingandCleaningData/blob/master/UCIdataset.txt)
+- [UCI summary](https://github.com/NR13/GettingandCleaningData/blob/master/UCIsummary.txt)

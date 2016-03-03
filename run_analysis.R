@@ -74,7 +74,7 @@ UCIsummary <- aggregate(UCIdataset,
 UCIsummary <- select(UCIsummary, -subject, -activity)          
 
 # Download datasets
-write.csv(UCIdataset, file = "./data/UCIdataset.csv", 
+write.csv(UCIdataset, file = "./data/UCIdataset.txt", 
           row.names = FALSE, col.names = TRUE)
-write.csv(UCIsummary, file = "./data/UCIsummary.csv", 
+write.csv(UCIsummary, file = "./data/UCIsummary.txt", 
           row.names = FALSE, col.names = TRUE)
